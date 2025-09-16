@@ -73,12 +73,7 @@ Cette formation a pour but de me transformer en un développeur full-stack Pytho
 ## 📂 Structure du Projet
 
 ```
-mon-formation-python-ia-sante/
-├── jour_1/              # Exercices du jour 1
-├── jour_2/              # Exercices du jour 2
-├── projets/             # Projets plus importants
-├── ressources/          Notes, liens utiles, cheatsheets
-└── README.md           Ce fichier
+
 ```
 
 ## 🧪 Projets Majeurs
